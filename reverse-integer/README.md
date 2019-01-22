@@ -21,3 +21,7 @@ pytest -s
 ## Maintainer
 
 https://github.com/sdinay
+
+## References
+
+https://leetcode.com/problems/reverse-integer/

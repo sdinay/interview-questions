@@ -14,3 +14,14 @@ def test_zero():
 def test_positive():
     result = reverse_int(9876)
     assert result == 6789
+
+
+def test_max_overflow():
+    input = 2**31 - 1
+    result = reverse_int(input)
+    result == 0
+
+def test_min_overflow():
+    input = -2**31
+    result = reverse_int(input)
+    result == 0
