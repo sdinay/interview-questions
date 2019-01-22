@@ -13,9 +13,16 @@ Print the phrase `"Hello World!"` to the console.
 ```
 pip install --upgrade pip
 pip install -r requirements.txt
-pytest
+pytest -s
+```
+
+### Java
+
+```
+javac HelloWorld.java
+java HelloWorld
 ```
 
 ## Maintainer
 
-[sdinay](https://github.com/sdinay)
+[https://github.com/sdinay]

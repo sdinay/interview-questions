@@ -1,3 +1,12 @@
 # Ignore pytest generated files
 *.pyc
 .pytest_cache/
+
+# Ignore java test files
+*.class
+
+# Ignore local virtual environment
+env/
+
+# Ignore all other auto generated files
+.DS_Store
