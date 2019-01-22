@@ -1,0 +1,3 @@
+# Ignore pytest generated files
+*.pyc
+.pytest_cache/
