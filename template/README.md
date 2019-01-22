@@ -19,10 +19,10 @@ pytest -s
 ### Java
 
 ```
-javac HelloWorld.java
+javac template.java
 java HelloWorld
 ```
 
 ## Maintainer
 
-[https://github.com/sdinay]
+https://github.com/sdinay

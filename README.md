@@ -23,9 +23,6 @@ deactivate
 ### Java
 
 - Java 8 or higher
-- JUnit 5 (requires Java 8 or higher at runtime)
-
-
 
 ## Questions
 
@@ -41,7 +38,7 @@ description
 
 ## Maintainer
 
-[https://github.com/sdinay]
+https://github.com/sdinay
 
 ## References
 
