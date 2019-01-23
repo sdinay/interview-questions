@@ -22,16 +22,12 @@ deactivate
 
 ## Questions
 
-note: link to folder
-
-- Template
-- Reverse Integer
-- Unique Paths
+- [Template](template/)
+- [Reverse Integer](reverse-integer/)
+- [Unique Paths](unique-paths)
 
 ## Maintainer
 
 https://github.com/sdinay
 
 ## References
-
-https://www.tutorialspoint.com/junit/junit_environment_setup.htm
