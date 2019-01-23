@@ -16,13 +16,6 @@ pip install -r requirements.txt
 pytest -s
 ```
 
-### Java
-
-```
-javac template.java
-java HelloWorld
-```
-
 ## Maintainer
 
 https://github.com/sdinay

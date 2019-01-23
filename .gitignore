@@ -1,6 +1,7 @@
 # Ignore pytest generated files
 *.pyc
 .pytest_cache/
+__pycache__/
 
 # Ignore java test files
 *.class

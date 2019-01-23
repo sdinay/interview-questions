@@ -8,7 +8,7 @@ A collection of interview questions and their solutions
 
 - python 3.5 or higher
 
-Activate a python 3 virtual environment
+Optional: Activate a python 3 virtual environment
 ```
 python3 -m pip install --user virtualenv
 python3 -m virtualenv env
@@ -20,21 +20,13 @@ Deactivate
 deactivate
 ```
 
-### Java
-
-- Java 8 or higher
-
 ## Questions
 
 note: link to folder
 
-### Template
-
-An example of how to structure the interview question directories. Explore this template and follow the README instructions to run tests.
-
-### Reverse Integer
-
-description
+- Template
+- Reverse Integer
+- Unique Paths
 
 ## Maintainer
 
