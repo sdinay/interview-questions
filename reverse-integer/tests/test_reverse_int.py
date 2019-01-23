@@ -1,4 +1,4 @@
-from reverse_int import reverse_int
+from reverse_int import reverse_int, INT_MAX, INT_MIN
 
 
 def test_negative():
@@ -17,11 +17,13 @@ def test_positive():
 
 
 def test_max_overflow():
-    input = 2**31 - 1
+    input = 1563847412
+    assert input < INT_MAX
     result = reverse_int(input)
     result == 0
 
 def test_min_overflow():
-    input = -2**31
+    input = -1563847412
+    assert INT_MIN < input
     result = reverse_int(input)
     result == 0
